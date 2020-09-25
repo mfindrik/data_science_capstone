@@ -7,5 +7,5 @@ The project contains scripts for training the model, web application for testing
 
 Deployed project artificats can be found under the following links:
 
-  * The word prediction (Shiny) web application: [Web-app link](http://github.com)
-  * The project presentation deck: [Slides link](http://github.com)
+  * The word prediction (Shiny) web application: [Web-app link](https://mfindrik.shinyapps.io/final_project_app/)
+  * The project presentation deck: [Slides link](https://rpubs.com/mfindrik/capstone_slides)
