@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600978296369.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6AD9F405",
+    "lastKnownWriteTime" : 1600978326,
+    "last_content_update" : 1600978326205,
+    "path" : "M:/r_projects/final_project_app/data_clean_and_train.R",
+    "project_path" : "data_clean_and_train.R",
+    "properties" : {
+        "cursorPosition" : "100,0",
+        "scrollLine" : "94",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
